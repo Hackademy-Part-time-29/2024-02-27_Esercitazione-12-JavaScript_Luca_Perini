@@ -31,10 +31,10 @@ function frasePalindroma(frase) {
 
 
     if (splitter == palindromo2) {
-        console.log("True");
+        console.log("Parola palindroma!");
     } else {
-        console.log("False");
+        console.log("Parola non palindroma!");
     }
 }
 
-frasePalindroma("i topi non avevano nipoti");
+frasePalindroma("mattone");
